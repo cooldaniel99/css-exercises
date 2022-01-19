@@ -1,0 +1,17 @@
+.stark {
+background: rgb(243, 164, 156);
+font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+#two {
+    font-size: 36px;
+    color: blue;
+}
+.tank-rust {
+    font-size: 24px;
+}
+
+#four {
+    font-weight: bold;
+    background: lightgreen;
+    font-size: 24px;
+}

@@ -1,0 +1,12 @@
+.read.beans (no space means selecting same class specific sections)
+
+.read,
+.beans (comma means these share a common styling and its just easier to style them
+with this. )
+
+.read
+(can also do it like this seperately and it does the same)
+.beans 
+
+.read .beans  (space in between means its nested inside of the ancestor element, second
+one is the child nested, doesnt matter how deep)
